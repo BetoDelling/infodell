@@ -1139,43 +1139,6 @@ a {
     left: -1rem;
   }
 }
-.cid-uiP53mhdNZ {
-  padding-top: 7rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-uiP53mhdNZ .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uiP53mhdNZ .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uiP53mhdNZ .item-wrapper {
-  display: flex;
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-uiP53mhdNZ .item-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-uiP53mhdNZ .img-wrapper {
-  width: 10rem;
-  padding-right: 1.5rem;
-}
-.cid-uiP53mhdNZ .content-head {
-  max-width: 800px;
-}
-.cid-uiP53mhdNZ .card-title {
-  text-align: left;
-  color: #000000;
-}
 .cid-uj1lF7nrV5 {
   padding-top: 1rem;
   padding-bottom: 1rem;
